@@ -12,4 +12,5 @@ Projet créé avec Bootstrap lors du jour 4 de [THP](https://www.thehackingproje
 ## Live Site + Screenshot
 
 [Live Site URL](https://beygs.github.io/the-surfing-project/)
-[![Screenshot](./images/screenshot.png)]
+
+[![Screenshot](./images/screenshot.png)
